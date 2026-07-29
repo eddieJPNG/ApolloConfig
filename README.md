@@ -2,6 +2,12 @@
 
 Personal dotfiles for an Arch Linux + Hyprland desktop environment.
 
+
+<img
+src="Assets/Screen.png"
+alt="Screen of the setup"
+ />
+
 ## Overview
 
 A curated collection of configurations for a Hyprland-based Wayland desktop on Arch Linux, featuring Catppuccin Macchiato theming, Waybar status bar, Kitty terminal, and Zsh shell with Starship prompt.
