@@ -90,6 +90,16 @@ ApolloConfig/
 - **Audio:** PipeWire 1.6
 - **Theme:** Catppuccin Macchiato + Breeze Dark
 
+
 ## License
 
 MIT License - Edson Rocha da Silva, 2026
+
+<div style="text-align: center;">
+<img
+src="Assets/ado2.gif"
+alt="Screen of the setup"
+height=100px
+width=100px
+ />
+</div>
