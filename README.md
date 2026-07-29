@@ -95,11 +95,11 @@ ApolloConfig/
 
 MIT License - Edson Rocha da Silva, 2026
 
-<div style="text-align: center;">
-<img
-src="Assets/ado2.gif"
-alt="Screen of the setup"
-height=100px
-width=100px
- />
-</div>
+<p align="center">
+  <img
+    src="Assets/ado2.gif"
+    alt="Screen of the setup"
+    height="100"
+    width="100"
+  />
+</p>
